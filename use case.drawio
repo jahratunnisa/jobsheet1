@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T07:22:04.539Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="bXs0ZHXETN4Bn8LxeJDj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T07:32:20.882Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="wlk90vNoUC24AXR25BTU" version="21.6.8" type="github">
   <diagram name="Page-1" id="_PpsL9-FMSNgoxNYlkyy">
     <mxGraphModel dx="1058" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bBCOCLnor8MAKiS44g4d-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="440" height="580" as="geometry" />
+          <mxGeometry x="220" y="70" width="440" height="580" as="geometry" />
         </mxCell>
         <mxCell id="bBCOCLnor8MAKiS44g4d-6" value="" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="200" height="80" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="340" y="390" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bBCOCLnor8MAKiS44g4d-13" value="Random angka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="160" width="135" height="40" as="geometry" />
+          <mxGeometry x="366.25" y="155" width="147.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bBCOCLnor8MAKiS44g4d-14" value="Tebak angka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="157.5" height="30" as="geometry" />
+          <mxGeometry x="361.25" y="420" width="157.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bBCOCLnor8MAKiS44g4d-16" value="&lt;div&gt;player2&lt;/div&gt;&lt;div&gt;(user)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="370" width="60" height="30" as="geometry" />
